@@ -1,0 +1,8 @@
+{
+  "name": "myblog-app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "server": "^1.0.18"
+  }
+}
